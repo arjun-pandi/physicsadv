@@ -1,1 +1,2 @@
-# physicsadv.github.io
+### Published as: 
+https://sriniraghunathan.github.io/
